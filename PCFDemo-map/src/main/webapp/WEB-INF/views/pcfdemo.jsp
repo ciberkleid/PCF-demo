@@ -98,7 +98,7 @@
     	<div class="nav-bar">
 	        <div class="logo">
 	          <!-- BestRetailInc_Logo.png Custom_Logo.png-->
-	          <img src="resources/img/BestRetailInc_Logo.png" alt="Best Retail, Inc.">
+	          <img src="resources/img/Custom_Logo.png" alt="Best Retail, Inc.">
 	        </div>
 	        <div class="nav">
 	        	<input type="button" value="Orders US Heat Map" class="activate nav-link" >
