@@ -100,7 +100,7 @@
 	          <!-- BestRetailInc_Logo.png Custom_Logo.png--> 
 	          <img src="resources/img/Custom_Logo.png" alt="Best Retail, Inc.">  
 	        </div>
-	        <div class="nav">
+	        <div class="nav"> 
 	        	<input type="button" value="Orders US Heat Map" class="activate nav-link" >
 	        	<input type="button" value="Kill App" class="activate nav-link" onclick="killApp();">
 	        </div>
